@@ -14,6 +14,25 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+Legal Issues
+============
+The ABC has sent the lawyers after the original author of Pyhton-iView,
+Jeremy Visser. The background can be found at 
+https://jeremy.visser.name/2012/06/iview-a-sign-of-the-times/
+
+I have paid my 8c per day to access the ABC. The tax office never
+proposed any limits on how I could use my 8c. I beleive that this
+software is legal in Australia. If you come to the same conclusion
+then I encourage you to clone, fork, copy, redistribute, whatever
+this repo.
+
+For more info checkout Jeremy's FAQ on the take down notice at
+https://jeremy.visser.name/2012/09/python-iview-press-qanda/
+
+This repo has been published without Jeremy's knowledge or support,
+but at the end of the day it is GPL code - it will always be free
+even if the ABC legal department don't want it to be.
+
 Requirements
 ============
 
